@@ -1,0 +1,20 @@
+{
+  "name": "gainbridge-tests",
+  "version": "1.0.0",
+  "description": "<p>     The sample web app being testing is a sample single page that doesn't have any real data layer and/or connections to other content.  Assumptions were made to what should happen. </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenmchaves/gainbridge-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenmchaves/gainbridge-tests/issues"
+  },
+  "homepage": "https://github.com/stevenmchaves/gainbridge-tests#readme"
+}
